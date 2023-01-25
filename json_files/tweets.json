@@ -1,0 +1,28 @@
+[
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "content": "Lorem ipsum dolor sit amet",
+        "created": "2023-01-24T15:09:14.254695",
+        "modified": "2023-01-24T21:09:40.866000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "user@example.com",
+            "first_name": "John Doe",
+            "last_name": "Smithh",
+            "birth_date": "2023-01-24"
+        }
+    },
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "content": "Lorem ipsum dolor sit amet",
+        "created": "2023-01-24T15:09:14.254695",
+        "modified": "2023-01-24T21:11:16.409000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "user@example.com",
+            "first_name": "John Doe",
+            "last_name": "Smitddh",
+            "birth_date": "2023-01-24"
+        }
+    }
+]

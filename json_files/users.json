@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": "8f7249b2-d2c4-43de-a328-c10f2b839143",
+        "email": "user@example.com",
+        "first_name": "John Doe",
+        "last_name": "Smithaaaa",
+        "birth_date": "2023-01-24",
+        "password": "DkjS/WhH1pVhZ9oLSluR"
+    },
+    {
+        "user_id": "8df54914-655b-4395-b473-fe476c7eaaa9",
+        "email": "user@example.com",
+        "first_name": "John Doe",
+        "last_name": "Smithaaaa",
+        "birth_date": "2023-01-24",
+        "password": "DkjS/WhH1pVhZ9oLSluR"
+    },
+    {
+        "user_id": "a5f479c8-4c1b-4d78-9729-f71d9a2b2e01",
+        "email": "user@example.com",
+        "first_name": "John Doe",
+        "last_name": "Smithaaaa",
+        "birth_date": "2023-01-24",
+        "password": "DkjS/WhH1pVhZ9oLSluR"
+    }
+]
